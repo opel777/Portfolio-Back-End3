@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.GustavoVillegas.Portfolio_1.Portfolio1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 77.355 s - in com.GustavoVillegas.Portfolio_1.Portfolio1ApplicationTests
